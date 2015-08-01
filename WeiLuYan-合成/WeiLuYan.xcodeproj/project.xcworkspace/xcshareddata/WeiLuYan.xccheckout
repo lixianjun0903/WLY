@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BD41D7C4-CDA6-4628-A93F-0EC1646EF92D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WeiLuYan</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>01c173fd-d485-584e-8bb0-687424e3b869++505</key>
+		<string>http://10.30.61.30/svn/wly-ios/trunk</string>
+		<key>044a564a-b2c6-421f-8a03-a933255c465e</key>
+		<string>svn://182.254.210.41/app_ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WLY_18/WeiLuYan-合成/WeiLuYan.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>01c173fd-d485-584e-8bb0-687424e3b869++505</key>
+		<string>../../../..</string>
+		<key>044a564a-b2c6-421f-8a03-a933255c465e</key>
+		<string>../../../../../app_ios</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>01c173fd-d485-584e-8bb0-687424e3b869++505</key>
+		<string>http://10.30.61.30/svn/wly-ios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://10.30.61.30/svn/wly-ios/trunk/WLY_18/WeiLuYan-%E5%90%88%E6%88%90/WeiLuYan.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>01c173fd-d485-584e-8bb0-687424e3b869++505</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>044a564a-b2c6-421f-8a03-a933255c465e</string>
+			<key>IDESourceControlWCCName</key>
+			<string>app_ios</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>01c173fd-d485-584e-8bb0-687424e3b869++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wly-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

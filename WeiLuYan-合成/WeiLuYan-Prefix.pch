@@ -1,0 +1,22 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+#define colorRead  @"#ca2a2a"
+#define WIDTH self.view.frame.size.width
+#define HEIGHT self.view.frame.size.height
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#define LEFT_LINE 15
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#import "GeneralizedProcessor.h"
+#import "Utils.h"
+#import "AccountModel.h"
+#endif
